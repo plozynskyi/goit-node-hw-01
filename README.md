@@ -1,7 +1,7 @@
-list -
+list - https://is.gd/gtWSbl
 
-get -
+get - https://is.gd/QPAtyr
 
-add -
+add - https://is.gd/7Cs37j
 
-remove -
+remove - https://is.gd/ArFNbS
